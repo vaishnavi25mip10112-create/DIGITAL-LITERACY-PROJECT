@@ -45,6 +45,15 @@ GitHub
 LinkedIn
 HackerRank
 Google Forms
-LINKS:\
+LINKS:
 GOOGLE FORM: https://docs.google.com/forms/d/e/1FAIpQLScBWultoQOX9b0pOEMMdb0mIJIr3mHUgHUNUcK3JGkQBKhPtQ/viewform?usp=publish-editor
-GIT HUB: 
+
+GIT HUB: https://github.com/vaishnavi25mip10112-create/DIGITAL-LITERACY-PROJECT
+
+Conclusion:
+The project has been highly beneficial in providing insights about the importance of digital literacy in academic and professional settings. I have been able to develop skills in the creation of a digital presence, communication, and safety. I have gained hands-on experience in the application of the most essential digital tools and have understood the importance of being responsible in the digital world. Overall, the project has been highly beneficial in boosting confidence in the application of digital tools for productive ends.
+FUTURE GOALS:
+To improve my digital literacy and technical skills
+To keep my professional online profiles up to date
+To take part in coding competitions
+To develop a strong digital portfolio of my work and achievements
