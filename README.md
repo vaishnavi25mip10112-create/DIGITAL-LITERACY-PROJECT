@@ -15,9 +15,13 @@ The Digital Literacy Project Assignment included the creation of this repository
 The portfolio addresses key facets of digital literacy, such as:
 
 -Knowledge of the internet
+
 -Expert internet presence
+
 -Tools for online collaboration
+
 -Email protocol
+
 -Awareness of cybercrime
 
 As needed, all tasks are arranged into structured folders.
@@ -40,18 +44,27 @@ Task 5: Cybercrime Awareness
 Developed a case study on a chosen topic of cybercrime, discussing the procedure of the crime, the risks involved, and the impact of the crime, along with a checklist for preventing the crime and awareness of how to report it through the National Cyber Crime Portal and helpline number 1930.
 
 KEY LEARNINGS:
+
 1)The Importance of digital responsibility and safety.
+
 2)Building a professional online presence.
+
 Effective communication through emails.
+
 Awareness of cyber threats and prevention strategies.
+
 The use of digital tools for collaboration and learning.
 
 Tools & Platforms Used:
 
 Canva 
+
 GitHub
+
 LinkedIn
+
 HackerRank
+
 Google Forms
 
 LINKS:
@@ -67,6 +80,9 @@ The project has been highly beneficial in providing insights about the importanc
 FUTURE GOALS:
 
 To improve my digital literacy and technical skills
+
 To keep my professional online profiles up to date
+
 To take part in coding competitions
+
 To develop a strong digital portfolio of my work and achievements
