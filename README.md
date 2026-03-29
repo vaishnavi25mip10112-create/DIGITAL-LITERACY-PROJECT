@@ -1,6 +1,6 @@
 # DIGITAL-LITERACY-PROJECT
 
-NAME-Vaishnavi Dixit
+**NAME**-Vaishnavi Dixit
 
 REGISTRATION NUMBER-25MIP
 
